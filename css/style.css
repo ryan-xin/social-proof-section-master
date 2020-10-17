@@ -22,11 +22,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: url("/images/bg-pattern-top-desktop.svg") left top no-repeat, url("/images/bg-pattern-bottom-desktop.svg") right bottom no-repeat;
 }
 
 .main-container {
   width: 1110px;
-  /* margin: 0 auto; */
 }
 
 /* ------------------------ Upper ----------------------- */
