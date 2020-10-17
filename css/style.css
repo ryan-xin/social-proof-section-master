@@ -87,11 +87,20 @@ h1 {
   margin-left: 20px;
 }
 
+.second-card {
+  margin-top: 20px;
+}
+
+.third-card {
+  margin-top: 40px;
+}
+
 /* ------------------------ Card ------------------------ */
 
 .card-container {
   display: flex;
   gap: 30px;
+  align-items: flex-start;
 }
 
 .card-container-item {
