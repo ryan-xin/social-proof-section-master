@@ -16,6 +16,8 @@ Your users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
+Here is my [solutions](https://social-proof-section-master-teal.vercel.app/). Please let me know if you have any suggestions.
+
 ## What I learned
 
 - Use flex to vertical and horizontal align child element: set parent 'display: flex; height: 100%; align-item: center; justify-content: center'. Set child element a width.
